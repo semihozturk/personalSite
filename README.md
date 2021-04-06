@@ -5,3 +5,5 @@ I made the HTML's structure by having 3 divs, naming them top-container, middle-
 Used absolute positioning to position clouds.
 
 Made an icon, added it on browser tab
+
+here you can see: https://semihozturk.github.io/personalSite/
